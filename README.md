@@ -2,4 +2,4 @@
 
 ##### Mantedor 1 e 2: Nathan Jesus
 
-##### Contribuidores A e B: Vinicius Andrade e Vanessa Gabriele, respectivamente
+##### Contribuidores A e B: Vinicius Andrade e Vanessa Pessoa, respectivamente
